@@ -1,0 +1,37 @@
+{
+  "name": "protected-routes",
+  "version": "1.0.0",
+  "description": "A react component for creating protected routes with react-router.",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "react-router",
+    "route"
+  ],
+  "author": "Felix Gerschau",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-router": "^4.3.1"
+  },
+  "devDependencies": {
+    "@types/enzyme-adapter-react-16": "^1.0.3",
+    "@types/jest": "^23.3.10",
+    "@types/react": "^16.7.13",
+    "@types/react-router": "^4.4.1",
+    "@types/react-router-dom": "^4.3.1",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.7.0",
+    "jest": "^23.6.0",
+    "react-dom": "^16.6.3",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2"
+  }
+}
