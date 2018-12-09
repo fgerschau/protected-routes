@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "A react component for creating protected routes with react-router.",
   "repository": {
-    "type": "git",
-    "url": ""
+    "type": "GitHub",
+    "url": "https://github.com/fgerschau/protected-routes"
   },
   "main": "./dist/index.js",
   "scripts": {
